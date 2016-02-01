@@ -1,7 +1,12 @@
 # ubuntu-dev
-Simple Ubuntu docker image setup for node development.
+Simple [Ubuntu](https://hub.docker.com/_/ubuntu/) docker image setup for node development.
 
-# Commands
+On [DockerHub](https://hub.docker.com/r/philcockfield/ubuntu-dev/):
+
+    docker pull philcockfield/ubuntu-dev
+
+
+### Commands
 
     docker build -t philcockfield/ubuntu-dev .
 
